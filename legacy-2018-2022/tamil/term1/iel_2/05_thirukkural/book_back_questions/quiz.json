@@ -1,0 +1,78 @@
+[
+  {
+    "id": "6_tam_t1_u2_5_q1",
+    "question": "மக்களுக்கு மகிழ்ச்சி தருவது எது?",
+    "options": [
+      "ஊக்கமின்மை",
+      "அறிவுடைய மக்கட்பேறு",
+      "வன்சொல்",
+      "சிறிய செயல்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "தம் மக்களின் அறிவுடைமை பெற்றோருக்கு மகிழ்ச்சி தருகிறது.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-2-5-new/",
+    "sourceName": "FreeTNBooks — 6th Tamil Term 1, Lesson 2.5 திருக்குறள்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md"
+    ],
+    "verificationStatus": "GUIDE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-2-5-new/"
+  },
+  {
+    "id": "6_tam_t1_u2_5_q2",
+    "question": "ஒருவர்க்குச் சிறந்த அணி எது?",
+    "options": [
+      "மாலை",
+      "காதணி",
+      "இன்சொல்",
+      "வன்சொல்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "இனிய சொற்களே ஒருவருக்குச் சிறந்த அணியாகும்.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-2-5-new/",
+    "sourceName": "FreeTNBooks — 6th Tamil Term 1, Lesson 2.5 திருக்குறள்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md"
+    ],
+    "verificationStatus": "GUIDE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-2-5-new/"
+  },
+  {
+    "id": "6_tam_t1_u2_5_q3",
+    "question": "‘இனிய ______ இன்னாத கூறல்; கனியிருப்பக் ______ கவர்ந்தற்று.’ என்ற குறளில் விடுபட்ட சொற்கள் எவை?",
+    "options": [
+      "உளவாக / காய்",
+      "அன்பாக / பழம்",
+      "இனிமை / கனி",
+      "உள்ளம் / மலர்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "குறள்: இனிய உளவாக இன்னாத கூறல்; கனியிருப்பக் காய்கவர்ந் தற்று.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-2-5-new/",
+    "sourceName": "FreeTNBooks — Step 3 மாற்று வினா",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TRANSFORMED_TEXTBOOK_FILL_BLANK_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-2-5-new/"
+  },
+  {
+    "id": "6_tam_t1_u2_5_q4",
+    "question": "‘அன்பிலார் ______ தமக்குரியர்; அன்புடையார் ______ உரியர் பிறர்க்கு.’ என்ற குறளில் விடுபட்ட சொற்கள் எவை?",
+    "options": [
+      "எல்லாம் / என்பும்",
+      "ஒன்றும் / உடலும்",
+      "செல்வம் / உயிரும்",
+      "யாவும் / மனமும்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "குறள்: அன்பிலார் எல்லாம் தமக்குரியர்; அன்புடையார் என்பும் உரியர் பிறர்க்கு.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-2-5-new/",
+    "sourceName": "FreeTNBooks — Step 3 மாற்று வினா",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TRANSFORMED_TEXTBOOK_FILL_BLANK_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-2-5-new/"
+  }
+]

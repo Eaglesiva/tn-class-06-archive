@@ -1,0 +1,116 @@
+[
+  {
+    "id": "6_tam_t2_u2_5_q1",
+    "question": "மெல்லினத்திற்கான இன எழுத்து இடம்பெறாத சொல் எது?",
+    "options": [
+      "மஞ்சள்",
+      "வந்தான்",
+      "கண்ணில்",
+      "தம்பி"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "‘கண்ணில்’ என்ற சொல்லில் மெல்லின எழுத்தான ண்-க்கு உரிய வல்லின இன எழுத்தான ட் இடம்பெறவில்லை.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — இன எழுத்துகள்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_5_q2",
+    "question": "தவறான சொல் எது?",
+    "options": [
+      "கண்டான்",
+      "வென்ரான்",
+      "நண்டு",
+      "வண்டு"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "சரியான சொல் 'வென்றான்'; எனவே 'வென்ரான்' தவறான வடிவம்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — இன எழுத்துகள்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_5_q3",
+    "question": "'தெண்றல்' என்ற பிழையான சொல்லின் சரியான வடிவம் எது?",
+    "options": [
+      "தென்றல்",
+      "தெண்ரல்",
+      "தென்றள்",
+      "தென்ரல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "மெல்லின ன்-க்கு உரிய இன வல்லின எழுத்து ற்; சரியான சொல் தென்றல்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — இன எழுத்துகள்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_5_q4",
+    "question": "'கன்டம்' என்ற பிழையான சொல்லின் சரியான வடிவம் எது?",
+    "options": [
+      "கண்டம்",
+      "கண்டன்",
+      "கன்டம்",
+      "கண்டாம்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "சரியான எழுத்துவடிவம் கண்டம்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — இன எழுத்துகள்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_5_q5",
+    "question": "'நன்ரி' என்ற பிழையான சொல்லின் சரியான வடிவம் எது?",
+    "options": [
+      "நன்றி",
+      "நன்டி",
+      "நண்டி",
+      "நன்ரி"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "சரியான எழுத்துவடிவம் நன்றி.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — இன எழுத்துகள்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_5_q6",
+    "question": "'மன்டபம்' என்ற பிழையான சொல்லின் சரியான வடிவம் எது?",
+    "options": [
+      "மண்டபம்",
+      "மந்தபம்",
+      "மன்டபம்",
+      "மண்டபன்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "சரியான எழுத்துவடிவம் மண்டபம்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — இன எழுத்துகள்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  }
+]

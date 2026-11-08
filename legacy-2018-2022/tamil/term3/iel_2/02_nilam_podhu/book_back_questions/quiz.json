@@ -1,0 +1,59 @@
+[
+  {
+    "id": "6_tam_t3_u2_2_q1",
+    "question": "செவ்விந்தியர்கள் நிலத்தை எவ்வாறு மதிக்கின்றனர்?",
+    "options": [
+      "தாயாக",
+      "தந்தையாக",
+      "தெய்வமாக",
+      "தூய்மையாக"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "சியாட்டல் தம் மக்களுக்கு இந்நிலமே தாய் என்று கூறுகிறார்; ஆகவே நிலத்தைத் தாயாக மதிக்கின்றனர்.",
+    "sourceUrl": "https://www.scribd.com/document/1074941698/Class-6-Tamil-Tamil-Tamil-Term-3-2025-Edition-www-tntextbooks-in",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 3 — நிலம் பொது",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term3/iel_2/02_nilam_podhu/page_37.pdf"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.scribd.com/document/1074941698/Class-6-Tamil-Tamil-Tamil-Term-3-2025-Edition-www-tntextbooks-in"
+  },
+  {
+    "id": "6_tam_t3_u2_2_q2",
+    "question": "‘இன்னோசை’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது எது?",
+    "options": [
+      "இன் + ஓசை",
+      "இனி + ஓசை",
+      "இனிமை + ஓசை",
+      "இன் + னோசை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "இன்னோசை = இன் + ஓசை.",
+    "sourceUrl": "https://www.scribd.com/document/1074941698/Class-6-Tamil-Tamil-Tamil-Term-3-2025-Edition-www-tntextbooks-in",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 3 — நிலம் பொது",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term3/iel_2/02_nilam_podhu/page_37.pdf"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.scribd.com/document/1074941698/Class-6-Tamil-Tamil-Tamil-Term-3-2025-Edition-www-tntextbooks-in"
+  },
+  {
+    "id": "6_tam_t3_u2_2_q3",
+    "question": "பால் + ஊறும் என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் எது?",
+    "options": [
+      "பால்ஊறும்",
+      "பாலூறும்",
+      "பால்லூறும்",
+      "பாஊறும்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "பால் + ஊறும் புணர்ந்து பாலூறும் என அமைகிறது.",
+    "sourceUrl": "https://www.scribd.com/document/1074941698/Class-6-Tamil-Tamil-Tamil-Term-3-2025-Edition-www-tntextbooks-in",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 3 — நிலம் பொது",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term3/iel_2/02_nilam_podhu/page_37.pdf"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.scribd.com/document/1074941698/Class-6-Tamil-Tamil-Tamil-Term-3-2025-Edition-www-tntextbooks-in"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "6_tam_t3_u2_1_q1",
+    "question": "தம் + உயிர் என்பதனைச் சேர்த்து எழுதக் கிடைக்கும் சொல் எது?",
+    "options": [
+      "தம்முயிர்",
+      "தமதுயிர்",
+      "தம்உயிர்",
+      "தம்முஉயிர்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "2025 பாடநூல் பாடல்வரியில் ‘தம்உயிர்போல்’ என இடைவெளியின்றி, கூடுதல் மெய் இரட்டிப்பு இல்லாமல் உள்ளது.",
+    "sourceUrl": "https://www.scribd.com/document/1074941698/Class-6-Tamil-Tamil-Tamil-Term-3-2025-Edition-www-tntextbooks-in",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 3 — பராபரக் கண்ணி",
+    "additionalSourceUrls": [
+      "https://www.scribd.com/document/1074941698/Class-6-Tamil-Tamil-Tamil-Term-3-2025-Edition-www-tntextbooks-in",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term3/iel_2/01_paraparakkanni/page_35.pdf"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.scribd.com/document/1074941698/Class-6-Tamil-Tamil-Tamil-Term-3-2025-Edition-www-tntextbooks-in"
+  },
+  {
+    "id": "6_tam_t3_u2_1_q2",
+    "question": "இன்புற்று + இருக்க என்பதனைச் சேர்த்து எழுதக் கிடைக்கும் சொல் எது?",
+    "options": [
+      "இன்புற்றிருக்க",
+      "இன்புறுறிருக்க",
+      "இன்புற்றுஇருக்க",
+      "இன்புறுஇருக்க"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "இன்புற்று + இருக்க = இன்புற்றிருக்க.",
+    "sourceUrl": "https://samacheerkalviguide.com/samacheer-kalvi-6th-tamil-guide-barabarakani-question-answer/",
+    "sourceName": "Samacheer Kalvi Guide — பராபரக் கண்ணி",
+    "additionalSourceUrls": [
+      "https://www.scribd.com/document/1074941698/Class-6-Tamil-Tamil-Tamil-Term-3-2025-Edition-www-tntextbooks-in",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term3/iel_2/01_paraparakkanni/page_35.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://samacheerkalviguide.com/samacheer-kalvi-6th-tamil-guide-barabarakani-question-answer/"
+  },
+  {
+    "id": "6_tam_t3_u2_1_q3",
+    "question": "‘தானென்று’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது எது?",
+    "options": [
+      "தானெ + என்று",
+      "தான் + என்று",
+      "தா + னென்று",
+      "தான் + னென்று"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "தானென்று = தான் + என்று.",
+    "sourceUrl": "https://samacheerkalviguide.com/samacheer-kalvi-6th-tamil-guide-barabarakani-question-answer/",
+    "sourceName": "Samacheer Kalvi Guide — பராபரக் கண்ணி",
+    "additionalSourceUrls": [
+      "https://www.scribd.com/document/1074941698/Class-6-Tamil-Tamil-Tamil-Term-3-2025-Edition-www-tntextbooks-in",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term3/iel_2/01_paraparakkanni/page_35.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://samacheerkalviguide.com/samacheer-kalvi-6th-tamil-guide-barabarakani-question-answer/"
+  },
+  {
+    "id": "6_tam_t3_u2_1_q4",
+    "question": "‘சோம்பல்’ என்னும் சொல்லுக்குப் பொருத்தமான எதிர்ச்சொல் எது?",
+    "options": [
+      "அழிவு",
+      "துன்பம்",
+      "சுறுசுறுப்பு",
+      "சோகம்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "சோம்பலுக்கு எதிரான சொல் சுறுசுறுப்பு.",
+    "sourceUrl": "https://samacheerkalviguide.com/samacheer-kalvi-6th-tamil-guide-barabarakani-question-answer/",
+    "sourceName": "Samacheer Kalvi Guide — பராபரக் கண்ணி",
+    "additionalSourceUrls": [
+      "https://www.scribd.com/document/1074941698/Class-6-Tamil-Tamil-Tamil-Term-3-2025-Edition-www-tntextbooks-in",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term3/iel_2/01_paraparakkanni/page_35.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://samacheerkalviguide.com/samacheer-kalvi-6th-tamil-guide-barabarakani-question-answer/"
+  }
+]

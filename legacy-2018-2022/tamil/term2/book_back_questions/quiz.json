@@ -1,0 +1,686 @@
+[
+  {
+    "id": "6_tam_t2_u1_1_q1",
+    "question": "பிறரிடம் நான் ______ பேசுவேன்.",
+    "options": [
+      "கடுஞ்சொல்",
+      "இன்சொல்",
+      "வன்சொல்",
+      "கொடுஞ்சொல்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "நல்லொழுக்கம் இனிய சொற்களைப் பேசுமாறு கூறுகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — ஆசாரக்கோவை",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u1_1_q2",
+    "question": "பிறர் நமக்குச் செய்யும் தீங்கைப் பொறுத்துக் கொள்வது ______ ஆகும்.",
+    "options": [
+      "வம்பு",
+      "அமைதி",
+      "அடக்கம்",
+      "பொறை"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "பிறர் செய்யும் தீங்கைப் பொறுத்துக் கொள்வது பொறை.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — ஆசாரக்கோவை",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u1_1_q3",
+    "question": "அறிவு + உடைமை என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் எது?",
+    "options": [
+      "அறிவுடைமை",
+      "அறிவுஉடமை",
+      "அறியுடைமை",
+      "அறிஉடமை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "அறிவு + உடைமை = அறிவுடைமை.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — ஆசாரக்கோவை",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u1_1_q4",
+    "question": "இவை + எட்டும் என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் எது?",
+    "options": [
+      "இவை எட்டும்",
+      "இவையெட்டும்",
+      "இவ்வெட்டும்",
+      "இவ்எட்டும்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "இவை + எட்டும் = இவையெட்டும்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — ஆசாரக்கோவை",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u1_1_q5",
+    "question": "நன்றியறிதல் என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது எது?",
+    "options": [
+      "நன்றி + யறிதல்",
+      "நன்றி + அறிதல்",
+      "நன்று + அறிதல்",
+      "நன்று + யறிதல்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "நன்றியறிதல் = நன்றி + அறிதல்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — ஆசாரக்கோவை",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u1_1_q6",
+    "question": "பொறையுடைமை என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது எது?",
+    "options": [
+      "பொறுமை + உடமை",
+      "பொறை + யுடமை",
+      "பொறு + யுடமை",
+      "பொறை + உடைமை"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "பொறையுடைமை = பொறை + உடைமை.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — ஆசாரக்கோவை",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u1_2_q1",
+    "question": "கண்ணுறங்கு என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது எது?",
+    "options": [
+      "கண் + உறங்கு",
+      "கண்ணு + உறங்கு",
+      "கண் + இறங்கு",
+      "கண்ணு + இறங்கு"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "கண்ணுறங்கு = கண் + உறங்கு.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — கண்மணியே கண்ணுறங்கு",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u1_2_q2",
+    "question": "வாழை + இலை என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் எது?",
+    "options": [
+      "வாழையிலை",
+      "வாழைஇலை",
+      "வாழைலை",
+      "வாழிலை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "வாழை + இலை = வாழையிலை.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — கண்மணியே கண்ணுறங்கு",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u1_2_q3",
+    "question": "உதித்த என்ற சொல்லின் எதிர்ச்சொல் எது?",
+    "options": [
+      "மறைந்த",
+      "நிறைந்த",
+      "குறைந்த",
+      "தோன்றிய"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "உதித்த என்பதன் எதிர்ச்சொல் மறைந்த.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — கண்மணியே கண்ணுறங்கு",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u1_3_q1",
+    "question": "கதிர் முற்றியதும் ______ செய்வது.",
+    "options": [
+      "அறுவடை",
+      "உரமிடுதல்",
+      "நடவு",
+      "களை எடுத்தல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "கதிர் முற்றியதும் அறுவடை செய்யப்படுகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — தமிழர் பெருவிழா",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u1_3_q2",
+    "question": "விழாக்காலங்களில் வீட்டின் வாயிலில் மாவிலையால் ______ கட்டுவர்.",
+    "options": [
+      "செடி",
+      "கொடி",
+      "தோரணம்",
+      "அலங்கார வளைவு"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "வீட்டின் வாயிலில் மாவிலையால் தோரணம் கட்டுவர்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — தமிழர் பெருவிழா",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u1_3_q3",
+    "question": "பொங்கல் + அன்று என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் எது?",
+    "options": [
+      "பொங்கலன்று",
+      "பொங்கல்அன்று",
+      "பொங்கலென்று",
+      "பொங்கஅன்று"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "பொங்கல் + அன்று = பொங்கலன்று.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — தமிழர் பெருவிழா",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u1_3_q4",
+    "question": "போகிப்பண்டிகை என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது எது?",
+    "options": [
+      "போகி + பண்டிகை",
+      "போ + பண்டிகை",
+      "போகு + பண்டிகை",
+      "போகிப் + பண்டிகை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "போகிப்பண்டிகை = போகி + பண்டிகை.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — தமிழர் பெருவிழா",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u1_3_q5",
+    "question": "பழையன கழிதலும் ______ புகுதலும்.",
+    "options": [
+      "புதியன",
+      "புதுமை",
+      "புதிய",
+      "புதுமையான"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "நன்னூல் நூற்பா: பழையன கழிதலும் புதியன புகுதலும்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — தமிழர் பெருவிழா",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u1_3_q6",
+    "question": "பச்சைப்பசேல் என்ற வயலைக் காண இன்பம் தரும்; பட்டுப்போன மரத்தைக் காண ______ தரும்.",
+    "options": [
+      "அயர்வு",
+      "கனவு",
+      "துன்பம்",
+      "சோர்வு"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "பட்டுப்போன மரத்தைக் காணத் துன்பம் தரும்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — தமிழர் பெருவிழா",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_1_q1",
+    "question": "போர்க்களத்தில் வெளிப்படும் குணம் எது?",
+    "options": [
+      "மகிழ்ச்சி",
+      "துன்பம்",
+      "வீரம்",
+      "அழுகை"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "போர்க்களத்தில் வீரம் வெளிப்படும்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — நானிலம் படைத்தவன்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_1_q2",
+    "question": "கல்லெடுத்து என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது எது?",
+    "options": [
+      "கல் + அடுத்து",
+      "கல் + எடுத்து",
+      "கல் + லடுத்து",
+      "கல் + லெடுத்து"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "கல்லெடுத்து = கல் + எடுத்து.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — நானிலம் படைத்தவன்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_1_q3",
+    "question": "நானிலம் என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது எது?",
+    "options": [
+      "நா + னிலம்",
+      "நான்கு + நிலம்",
+      "நா + நிலம்",
+      "நான் + நிலம்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "நானிலம் = நான்கு + நிலம்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — நானிலம் படைத்தவன்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_1_q4",
+    "question": "நாடு + என்ற என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் எது?",
+    "options": [
+      "நாடென்ற",
+      "நாடன்ற",
+      "நாடுஎன்ற",
+      "நாடுஅன்ற"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "நாடு + என்ற = நாடென்ற.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — நானிலம் படைத்தவன்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_1_q5",
+    "question": "கலம் + ஏறி என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் எது?",
+    "options": [
+      "கலம்ஏறி",
+      "கலமறி",
+      "கலன்ஏறி",
+      "கலமேறி"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "கலம் + ஏறி = கலமேறி.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — நானிலம் படைத்தவன்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_2_q1",
+    "question": "கதிர்ச்சுடர் என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது எது?",
+    "options": [
+      "கதிர்ச் + சுடர்",
+      "கதிரின் + சுடர்",
+      "கதிரவன் + சுடர்",
+      "கதிர் + சுடர்"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "கதிர்ச்சுடர் = கதிர் + சுடர்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — கடலோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_2_q2",
+    "question": "மூச்சடக்கி என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது எது?",
+    "options": [
+      "மூச்சு + அடக்கி",
+      "மூச் + அடக்கி",
+      "மூச் + சடக்கி",
+      "மூச்சை + அடக்கி"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "மூச்சடக்கி = மூச்சு + அடக்கி.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — கடலோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_2_q3",
+    "question": "பெருமை + வானம் என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் எது?",
+    "options": [
+      "பெருமைவனம்",
+      "பெருவானம்",
+      "பெருமானம்",
+      "பேர்வானம்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "பெருமை + வானம் = பெருவானம்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — கடலோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_2_q4",
+    "question": "அடிக்கும் + அலை என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் எது?",
+    "options": [
+      "அடிக்குமலை",
+      "அடிக்கும் அலை",
+      "அடிக்கிலை",
+      "அடியலை"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "அடிக்கும் + அலை என்பது பாடலில் 'அடிக்கும் அலை' என வருகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — கடலோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_3_q1",
+    "question": "வீட்டுப் பயன்பாட்டிற்காகப் பொருள் வாங்குபவர் யார்?",
+    "options": [
+      "நுகர்வோர்",
+      "தொழிலாளி",
+      "முதலீட்டாளர்",
+      "நெசவாளர்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "வீட்டுப் பயன்பாட்டிற்காகப் பொருள் வாங்குபவர் நுகர்வோர்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — வளரும் வணிகம்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_3_q2",
+    "question": "வணிகம் + சாத்து என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் எது?",
+    "options": [
+      "வணிகசாத்து",
+      "வணிகம்சாத்து",
+      "வணிகச்சாத்து",
+      "வணிகத்துசாத்து"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "வணிகம் + சாத்து = வணிகச்சாத்து.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — வளரும் வணிகம்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_3_q3",
+    "question": "பண்டம் + மாற்று என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் எது?",
+    "options": [
+      "பண்டமாற்று",
+      "பண்டம்மாற்று",
+      "பண்மாற்று",
+      "பண்டுமாற்று"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "பண்டம் + மாற்று = பண்டமாற்று.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — வளரும் வணிகம்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_3_q4",
+    "question": "மின்னணு என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது எது?",
+    "options": [
+      "மின் + னணு",
+      "மின்ன + அணு",
+      "மின்னல் + அணு",
+      "மின் + அணு"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "மின்னணு = மின் + அணு.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — வளரும் வணிகம்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_3_q5",
+    "question": "விரிவடைந்த என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது எது?",
+    "options": [
+      "விரி + வடைந்த",
+      "விரி + அடைந்த",
+      "விரிவு + அடைந்த",
+      "விரிவ் + அடைந்த"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "விரிவடைந்த = விரிவு + அடைந்த.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — வளரும் வணிகம்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_5_q1",
+    "question": "மெல்லினத்திற்கான இன எழுத்து இடம்பெறாத சொல் எது?",
+    "options": [
+      "மஞ்சள்",
+      "வந்தான்",
+      "கண்ணில்",
+      "தம்பி"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "‘கண்ணில்’ என்ற சொல்லில் மெல்லின எழுத்தான ண்-க்கு உரிய வல்லின இன எழுத்தான ட் இடம்பெறவில்லை.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — இன எழுத்துகள்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_5_q2",
+    "question": "தவறான சொல் எது?",
+    "options": [
+      "கண்டான்",
+      "வென்ரான்",
+      "நண்டு",
+      "வண்டு"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "சரியான சொல் 'வென்றான்'; எனவே 'வென்ரான்' தவறான வடிவம்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — இன எழுத்துகள்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u1_5_q1",
+    "question": "சொல்லின் இடையில் மட்டுமே வரும் எழுத்து எது?",
+    "options": [
+      "அ",
+      "ஃ",
+      "ம்",
+      "ன்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "ஆய்த எழுத்து (ஃ) சொல்லின் இடையில் மட்டுமே வரும்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — மொழி இறுதி எழுத்துகள்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_5_q3",
+    "question": "'தெண்றல்' என்ற பிழையான சொல்லின் சரியான வடிவம் எது?",
+    "options": [
+      "தென்றல்",
+      "தெண்ரல்",
+      "தென்றள்",
+      "தென்ரல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "மெல்லின ன்-க்கு உரிய இன வல்லின எழுத்து ற்; சரியான சொல் தென்றல்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — இன எழுத்துகள்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_5_q4",
+    "question": "'கன்டம்' என்ற பிழையான சொல்லின் சரியான வடிவம் எது?",
+    "options": [
+      "கண்டம்",
+      "கண்டன்",
+      "கன்டம்",
+      "கண்டாம்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "சரியான எழுத்துவடிவம் கண்டம்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — இன எழுத்துகள்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_5_q5",
+    "question": "'நன்ரி' என்ற பிழையான சொல்லின் சரியான வடிவம் எது?",
+    "options": [
+      "நன்றி",
+      "நன்டி",
+      "நண்டி",
+      "நன்ரி"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "சரியான எழுத்துவடிவம் நன்றி.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — இன எழுத்துகள்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_5_q6",
+    "question": "'மன்டபம்' என்ற பிழையான சொல்லின் சரியான வடிவம் எது?",
+    "options": [
+      "மண்டபம்",
+      "மந்தபம்",
+      "மன்டபம்",
+      "மண்டபன்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "சரியான எழுத்துவடிவம் மண்டபம்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — இன எழுத்துகள்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  }
+]

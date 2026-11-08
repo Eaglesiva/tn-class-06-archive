@@ -1,0 +1,86 @@
+[
+  {
+    "id": "6_tam_t1_u2_1_q1",
+    "question": "கூடு கட்டுவதற்கு மரம் கிடைக்காத பறவைகள் ______ வேறிடம் சென்றன.",
+    "options": [
+      "பதிலிகளாக",
+      "ஏதிலிகளாக",
+      "விருந்தாளிகளாக",
+      "பயணிகளாக"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "மரங்கள் இல்லாததால் பறவைகள் தங்களின் வாழிடத்தை இழந்து ஏதிலிகளாக வேறிடத்திற்குச் சென்றன.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-2-1-new/",
+    "sourceName": "FreeTNBooks — Class 6 Tamil Term 1 Lesson 2.1",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_2/01_edhilikkuruvigal/page_20.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_2/01_edhilikkuruvigal/page_21.pdf"
+    ],
+    "verificationStatus": "GUIDE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-2-1-new/"
+  },
+  {
+    "id": "6_tam_t1_u2_1_q2",
+    "question": "'முன்பென்றால்' என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ______.",
+    "options": [
+      "முன் + பென்றால்",
+      "முன்பு + அன்றால்",
+      "முன்பு + என்றால்",
+      "முன்பு + பென்றால்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "'முன்பென்றால்' என்பது 'முன்பு + என்றால்' எனப் பிரிகிறது.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-2-1-new/",
+    "sourceName": "FreeTNBooks — Class 6 Tamil Term 1 Lesson 2.1",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_2/01_edhilikkuruvigal/page_20.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_2/01_edhilikkuruvigal/page_21.pdf"
+    ],
+    "verificationStatus": "GUIDE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-2-1-new/"
+  },
+  {
+    "id": "6_tam_t1_u2_1_q3",
+    "question": "'சுழித்தோடும்' என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது ______.",
+    "options": [
+      "சுழித்து + ஓடும்",
+      "சுழி + தோடும்",
+      "சுழி + ஓடும்",
+      "சுழித் + தோடும்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "பாடநூலில் உள்ள சொல் 'சுழித்தோடும்'; சரியான பிரிப்பு 'சுழித்து + ஓடும்'.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-2-1-new/",
+    "sourceName": "FreeTNBooks — Class 6 Tamil Term 1 Lesson 2.1",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_2/01_edhilikkuruvigal/page_20.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_2/01_edhilikkuruvigal/page_21.pdf"
+    ],
+    "verificationStatus": "GUIDE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-2-1-new/"
+  },
+  {
+    "id": "6_tam_t1_u2_1_q4",
+    "question": "வழி + எல்லாம் என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் ______.",
+    "options": [
+      "வழிஎல்லாம்",
+      "வழியிலெல்லாம்",
+      "வழில்லாம்",
+      "வழியெல்லாம்"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "'வழி + எல்லாம்' புணர்ந்து 'வழியெல்லாம்' என அமைகிறது.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-2-1-new/",
+    "sourceName": "FreeTNBooks — Class 6 Tamil Term 1 Lesson 2.1",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_2/01_edhilikkuruvigal/page_20.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_2/01_edhilikkuruvigal/page_21.pdf"
+    ],
+    "verificationStatus": "GUIDE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-2-1-new/"
+  }
+]

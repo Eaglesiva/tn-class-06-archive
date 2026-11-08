@@ -1,0 +1,21 @@
+[
+  {
+    "id": "6_tam_t2_u1_5_q1",
+    "question": "சொல்லின் இடையில் மட்டுமே வரும் எழுத்து எது?",
+    "options": [
+      "அ",
+      "ஃ",
+      "ம்",
+      "ன்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "ஆய்த எழுத்து (ஃ) சொல்லின் இடையில் மட்டுமே வரும்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — மொழி இறுதி எழுத்துகள்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  }
+]

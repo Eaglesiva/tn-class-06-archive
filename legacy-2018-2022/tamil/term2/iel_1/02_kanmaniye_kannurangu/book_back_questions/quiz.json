@@ -1,0 +1,59 @@
+[
+  {
+    "id": "6_tam_t2_u1_2_q1",
+    "question": "கண்ணுறங்கு என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது எது?",
+    "options": [
+      "கண் + உறங்கு",
+      "கண்ணு + உறங்கு",
+      "கண் + இறங்கு",
+      "கண்ணு + இறங்கு"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "கண்ணுறங்கு = கண் + உறங்கு.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — கண்மணியே கண்ணுறங்கு",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u1_2_q2",
+    "question": "வாழை + இலை என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் எது?",
+    "options": [
+      "வாழையிலை",
+      "வாழைஇலை",
+      "வாழைலை",
+      "வாழிலை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "வாழை + இலை = வாழையிலை.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — கண்மணியே கண்ணுறங்கு",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u1_2_q3",
+    "question": "உதித்த என்ற சொல்லின் எதிர்ச்சொல் எது?",
+    "options": [
+      "மறைந்த",
+      "நிறைந்த",
+      "குறைந்த",
+      "தோன்றிய"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "உதித்த என்பதன் எதிர்ச்சொல் மறைந்த.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — கண்மணியே கண்ணுறங்கு",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  }
+]

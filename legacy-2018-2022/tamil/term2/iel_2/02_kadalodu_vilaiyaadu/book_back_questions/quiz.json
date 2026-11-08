@@ -1,0 +1,78 @@
+[
+  {
+    "id": "6_tam_t2_u2_2_q1",
+    "question": "கதிர்ச்சுடர் என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது எது?",
+    "options": [
+      "கதிர்ச் + சுடர்",
+      "கதிரின் + சுடர்",
+      "கதிரவன் + சுடர்",
+      "கதிர் + சுடர்"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "கதிர்ச்சுடர் = கதிர் + சுடர்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — கடலோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_2_q2",
+    "question": "மூச்சடக்கி என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது எது?",
+    "options": [
+      "மூச்சு + அடக்கி",
+      "மூச் + அடக்கி",
+      "மூச் + சடக்கி",
+      "மூச்சை + அடக்கி"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "மூச்சடக்கி = மூச்சு + அடக்கி.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — கடலோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_2_q3",
+    "question": "பெருமை + வானம் என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் எது?",
+    "options": [
+      "பெருமைவனம்",
+      "பெருவானம்",
+      "பெருமானம்",
+      "பேர்வானம்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "பெருமை + வானம் = பெருவானம்.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — கடலோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t2_u2_2_q4",
+    "question": "அடிக்கும் + அலை என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் எது?",
+    "options": [
+      "அடிக்குமலை",
+      "அடிக்கும் அலை",
+      "அடிக்கிலை",
+      "அடியலை"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "அடிக்கும் + அலை என்பது பாடலில் 'அடிக்கும் அலை' என வருகிறது.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md",
+    "sourceName": "2025 SCERT Class 6 Tamil Term 2 — கடலோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_2_-_2025_Edition.md"
+  }
+]

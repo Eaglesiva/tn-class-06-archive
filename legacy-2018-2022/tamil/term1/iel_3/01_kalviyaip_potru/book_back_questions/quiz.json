@@ -1,0 +1,59 @@
+[
+  {
+    "id": "6_tam_t1_u3_1_q1",
+    "question": "கல்வியானது நமது ______ துணையாய் அமைகிறது.",
+    "options": [
+      "ஆவிக்குத்",
+      "கண்ணுக்குத்",
+      "உடலுக்குத்",
+      "செவிக்குத்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "கல்வி உயிருக்கு அரிய துணையாக அமைகிறது.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-3-1-new/",
+    "sourceName": "FreeTNBooks — 6th Tamil Term 1, Lesson 3.1 கல்வியைப் போற்று",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md"
+    ],
+    "verificationStatus": "GUIDE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-3-1-new/"
+  },
+  {
+    "id": "6_tam_t1_u3_1_q2",
+    "question": "‘அருந்துணை’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது எது?",
+    "options": [
+      "அருந்து + துணை",
+      "அருமை + துணை",
+      "அரு + துணை",
+      "அருந் + துணை"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "அருந்துணை என்பது அருமை + துணை எனப் பிரியும்.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-3-1-new/",
+    "sourceName": "FreeTNBooks — 6th Tamil Term 1, Lesson 3.1 கல்வியைப் போற்று",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md"
+    ],
+    "verificationStatus": "GUIDE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-3-1-new/"
+  },
+  {
+    "id": "6_tam_t1_u3_1_q3",
+    "question": "‘கல்வி + என்றே’ என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் எது?",
+    "options": [
+      "கல்விஎன்றே",
+      "கல்வியன்றே",
+      "கல்வியின்றே",
+      "கல்வியென்றே"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "கல்வி + என்றே சேர்ந்து கல்வியென்றே என அமைகிறது.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-3-1-new/",
+    "sourceName": "FreeTNBooks — 6th Tamil Term 1, Lesson 3.1 கல்வியைப் போற்று",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md"
+    ],
+    "verificationStatus": "GUIDE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-3-1-new/"
+  }
+]

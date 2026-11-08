@@ -1,0 +1,121 @@
+[
+  {
+    "id": "6_tam_t1_u1_4_q1",
+    "question": "உயிரெழுத்தில் தொடங்கும் இரண்டு மாத்திரை அளவுள்ள சொல் எது?",
+    "options": [
+      "ஆடு",
+      "அது",
+      "அம்மா",
+      "ஆலை"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "அ (1) + து (1) = 2 மாத்திரை.",
+    "sourceUrl": "https://textbookpdf.in/tn-6th-tamil-guide-term-1-lesson-1-5/",
+    "sourceName": "TextBookPDF — 6th Tamil Term 1, தமிழ் எழுத்துகளின் வகையும் தொகையும்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_14.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_15.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_16.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_17.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_18.pdf"
+    ],
+    "verificationStatus": "GUIDE_TEXTBOOK_RULE_CROSSCHECK",
+    "explanationSourceUrl": "https://textbookpdf.in/tn-6th-tamil-guide-term-1-lesson-1-5/"
+  },
+  {
+    "id": "6_tam_t1_u1_4_q2",
+    "question": "இரண்டு மாத்திரை அளவுள்ள ஓரெழுத்துச் சொல் எது?",
+    "options": [
+      "அ",
+      "இ",
+      "தீ",
+      "க்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "‘தீ’ ஒரு நெடில் ஓரெழுத்துச் சொல்; நெடில் 2 மாத்திரை.",
+    "sourceUrl": "https://textbookpdf.in/tn-6th-tamil-guide-term-1-lesson-1-5/",
+    "sourceName": "TextBookPDF — 6th Tamil Term 1, தமிழ் எழுத்துகளின் வகையும் தொகையும்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_14.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_15.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_16.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_17.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_18.pdf"
+    ],
+    "verificationStatus": "GUIDE_TEXTBOOK_RULE_CROSSCHECK",
+    "explanationSourceUrl": "https://textbookpdf.in/tn-6th-tamil-guide-term-1-lesson-1-5/"
+  },
+  {
+    "id": "6_tam_t1_u1_4_q3",
+    "question": "ஆய்த எழுத்து இடம்பெறும் இரண்டரை (2.5) மாத்திரை அளவுள்ள சொல் எது?",
+    "options": [
+      "அஃது",
+      "எஃகுக்கம்பி",
+      "அது",
+      "ஆடு"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "அ (1) + ஃ (½) + து (1) = 2½ மாத்திரை. ஆய்த எழுத்து ½ மாத்திரை.",
+    "sourceUrl": "https://textbookpdf.in/tn-6th-tamil-guide-term-1-lesson-1-5/",
+    "sourceName": "TextBookPDF — 6th Tamil Term 1, தமிழ் எழுத்துகளின் வகையும் தொகையும்",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_14.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_15.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_16.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_17.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_18.pdf"
+    ],
+    "verificationStatus": "TEXTBOOK_RULE_DIRECT_GUIDE_CROSSCHECK",
+    "explanationSourceUrl": "https://textbookpdf.in/tn-6th-tamil-guide-term-1-lesson-1-5/"
+  },
+  {
+    "id": "6_tam_t1_u1_4_q4",
+    "question": "தமிழ் இலக்கணம் எத்தனை வகைப்படும்?",
+    "options": [
+      "மூன்று",
+      "நான்கு",
+      "ஐந்து",
+      "ஆறு"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "பாடநூல் உரையில் எழுத்து, சொல், பொருள், யாப்பு, அணி என ஐந்து வகைகள் பட்டியலிடப்பட்டுள்ளன.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+    "sourceName": "SCERT Class 6 Tamil Term 1 — 2025 textbook text transcription",
+    "additionalSourceUrls": [
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_14.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_15.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_16.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_17.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_18.pdf"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md"
+  },
+  {
+    "id": "6_tam_t1_u1_4_q5",
+    "question": "குறில் எழுத்தை ஒலிக்கும் கால அளவு எத்தனை மாத்திரை?",
+    "options": [
+      "இரண்டு மாத்திரை",
+      "ஒரு மாத்திரை",
+      "அரை மாத்திரை",
+      "மூன்று மாத்திரை"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "பாடநூல் உரைப்படி குறில் 1 மாத்திரை; நெடில் 2 மாத்திரை; மெய் மற்றும் ஆய்தம் ½ மாத்திரை.",
+    "sourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+    "sourceName": "SCERT Class 6 Tamil Term 1 — 2025 textbook text transcription",
+    "additionalSourceUrls": [
+      "https://textbookpdf.in/tn-6th-tamil-guide-term-1-lesson-1-5/",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_14.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_15.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_16.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_17.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/04_tamil_eluthukalin_vagaiyum_thogaiyum/page_18.pdf"
+    ],
+    "verificationStatus": "TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md"
+  }
+]

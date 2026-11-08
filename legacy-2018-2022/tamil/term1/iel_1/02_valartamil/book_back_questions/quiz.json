@@ -1,0 +1,233 @@
+[
+  {
+    "id": "6_tam_t1_u1_2_q1",
+    "question": "‘தொன்மை’ என்னும் சொல்லின் பொருள் __________.",
+    "options": [
+      "புதுமை",
+      "பழமை",
+      "பெருமை",
+      "சீர்மை"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "‘தொன்மை’ என்பதன் பொருள் பழமை.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-1-2-new/",
+    "sourceName": "FreeTNBooks — 6th Tamil Term 1, Lesson 1.2",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://www.samacheerkalviguide.com/samacheer-kalvi-6th-tamil-guide-valar-tamil-question-answer/",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_05.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_06.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_07.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_08.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_09.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_10.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-1-2-new/"
+  },
+  {
+    "id": "6_tam_t1_u1_2_q2",
+    "question": "‘இடப்புறம்’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது _________.",
+    "options": [
+      "இடன் + புறம்",
+      "இடை + புறம்",
+      "இடம் + புறம்",
+      "இடப் + புறம்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "இந்தப் பதிப்பின் கேள்வி விருப்பங்களில் ‘இடம் + புறம்’ பொருந்துகிறது; வழிகாட்டி ஆதாரமும் ‘இடம் + புறம்’ என்பதை ஏற்கிறது.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-1-2-new/",
+    "sourceName": "FreeTNBooks — 6th Tamil Term 1, Lesson 1.2",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://www.samacheerkalviguide.com/samacheer-kalvi-6th-tamil-guide-valar-tamil-question-answer/",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_05.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_06.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_07.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_08.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_09.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_10.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-1-2-new/"
+  },
+  {
+    "id": "6_tam_t1_u1_2_q4",
+    "question": "சிலம்பு + அதிகாரம் என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் ________.",
+    "options": [
+      "சிலப்பதிகாரம்",
+      "சிலபதிகாரம்",
+      "சிலம்புதிகாரம்",
+      "சிலம்பதிகாரம்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘சிலம்பு + அதிகாரம்’ சேர்ந்து ‘சிலப்பதிகாரம்’ என அமைகிறது.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-1-2-new/",
+    "sourceName": "FreeTNBooks — 6th Tamil Term 1, Lesson 1.2",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://www.samacheerkalviguide.com/samacheer-kalvi-6th-tamil-guide-valar-tamil-question-answer/",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_05.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_06.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_07.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_08.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_09.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_10.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-1-2-new/"
+  },
+  {
+    "id": "6_tam_t1_u1_2_q5",
+    "question": "கணினி + தமிழ் என்பதனைச் சேர்த்தெழுதக் கிடைக்கும் சொல் ________.",
+    "options": [
+      "கணினிதமிழ்",
+      "கணினித்தமிழ்",
+      "கணிணிதமிழ்",
+      "கனினிதமிழ்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "‘கணினி + தமிழ்’ சேர்ந்து ‘கணினித்தமிழ்’ என அமைகிறது.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-1-2-new/",
+    "sourceName": "FreeTNBooks — 6th Tamil Term 1, Lesson 1.2",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://www.samacheerkalviguide.com/samacheer-kalvi-6th-tamil-guide-valar-tamil-question-answer/",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_05.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_06.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_07.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_08.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_09.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_10.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-1-2-new/"
+  },
+  {
+    "id": "6_tam_t1_u1_2_q6",
+    "question": "“தமிழ்மொழி போல் இனிதாவது எங்கும் காணோம்” என்று பாடியவர் ________.",
+    "options": [
+      "கண்ணதாசன்",
+      "பாரதியார்",
+      "பாரதிதாசன்",
+      "வாணிதாசன்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "இந்த வரியைப் பாடியவர் பாரதியார்.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-1-2-new/",
+    "sourceName": "FreeTNBooks — 6th Tamil Term 1, Lesson 1.2",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://www.samacheerkalviguide.com/samacheer-kalvi-6th-tamil-guide-valar-tamil-question-answer/",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_05.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_06.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_07.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_08.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_09.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_10.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-1-2-new/"
+  },
+  {
+    "id": "6_tam_t1_u1_2_q7",
+    "question": "‘மா’ என்னும் சொல்லின் பொருள் ________.",
+    "options": [
+      "மாடம்",
+      "வானம்",
+      "விலங்கு",
+      "அம்மா"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "இங்கு ‘மா’ என்பது விலங்கு என்ற பொருளில் வருகிறது.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-1-2-new/",
+    "sourceName": "FreeTNBooks — 6th Tamil Term 1, Lesson 1.2",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://www.samacheerkalviguide.com/samacheer-kalvi-6th-tamil-guide-valar-tamil-question-answer/",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_05.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_06.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_07.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_08.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_09.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_10.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-1-2-new/"
+  },
+  {
+    "id": "6_tam_t1_u1_2_q8",
+    "question": "நாம் சிந்திக்கவும் சிந்தித்ததை வெளிப்படுத்தவும் உதவுவது ________.",
+    "options": [
+      "மொழி",
+      "எழுத்து",
+      "ஒலி",
+      "கருத்து"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "சிந்தனையை உருவாக்கவும் பிறரிடம் வெளிப்படுத்தவும் உதவும் கருவி மொழி.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-1-2-new/",
+    "sourceName": "FreeTNBooks — 6th Tamil Term 1, Lesson 1.2",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_05.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_06.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_07.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_08.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_09.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_10.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-1-2-new/"
+  },
+  {
+    "id": "6_tam_t1_u1_2_q9",
+    "question": "தமிழில் நமக்குக் கிடைத்துள்ள மிகப் பழமையான இலக்கண நூல் ________.",
+    "options": [
+      "நன்னூல்",
+      "தொல்காப்பியம்",
+      "திருக்குறள்",
+      "சிலப்பதிகாரம்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "தமிழின் மிகப் பழமையான இலக்கண நூலாகத் தொல்காப்பியம் குறிப்பிடப்படுகிறது.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-1-2-new/",
+    "sourceName": "FreeTNBooks — 6th Tamil Term 1, Lesson 1.2",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_05.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_06.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_07.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_08.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_09.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_10.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-1-2-new/"
+  },
+  {
+    "id": "6_tam_t1_u1_2_q10",
+    "question": "மொழியைக் கணினியில் பயன்படுத்த வேண்டும் எனில், அஃது ________ அடிப்படையில் வடிவமைக்கப்பட வேண்டும்.",
+    "options": [
+      "எழுத்துகளின்",
+      "ஒலிகளின்",
+      "எண்களின்",
+      "சொற்களின்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "கணினியில் மொழியைப் பயன்படுத்துவதற்கு அது எண்களின் அடிப்படையில் வடிவமைக்கப்பட வேண்டும்.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-1-2-new/",
+    "sourceName": "FreeTNBooks — 6th Tamil Term 1, Lesson 1.2",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_05.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_06.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_07.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_08.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_09.pdf",
+      "https://github.com/Eaglesiva/tn-class-06/blob/main/tamil/term1/iel_1/02_valartamil/page_10.pdf"
+    ],
+    "verificationStatus": "GUIDE_REFERENCE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-1-2-new/"
+  }
+]

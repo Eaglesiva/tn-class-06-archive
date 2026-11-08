@@ -1,0 +1,78 @@
+[
+  {
+    "id": "6_tam_t1_u3_2_q1",
+    "question": "மாணவர் பிறர் _______ நடக்கக் கூடாது.",
+    "options": [
+      "போற்றும்படி",
+      "தூற்றும்படி",
+      "பார்க்கும்படி",
+      "வியக்கும்படி"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "பிறர் இகழும்படி மாணவர் நடக்கக் கூடாது.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-3-2-new/",
+    "sourceName": "FreeTNBooks — இயல் 3.2 துன்பம் வெல்லும் கல்வி",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md"
+    ],
+    "verificationStatus": "GUIDE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-3-2-new/"
+  },
+  {
+    "id": "6_tam_t1_u3_2_q2",
+    "question": "நாம் _______ சொற்படி நடக்க வேண்டும்.",
+    "options": [
+      "இளையோர்",
+      "ஊரார்",
+      "மூத்தோர்",
+      "வழிப்போக்கர்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "மூத்தோர் சொற்படி நடக்க வேண்டும்.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-3-2-new/",
+    "sourceName": "FreeTNBooks — இயல் 3.2 துன்பம் வெல்லும் கல்வி",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md"
+    ],
+    "verificationStatus": "GUIDE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-3-2-new/"
+  },
+  {
+    "id": "6_tam_t1_u3_2_q3",
+    "question": "‘கைப்பொருள்’ என்னும் சொல்லைப் பிரித்து எழுதக் கிடைப்பது எது?",
+    "options": [
+      "கையில் + பொருள்",
+      "கைப் + பொருள்",
+      "கை + பொருள்",
+      "கைப்பு + பொருள்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "கைப்பொருள் = கை + பொருள்.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-3-2-new/",
+    "sourceName": "FreeTNBooks — இயல் 3.2 துன்பம் வெல்லும் கல்வி",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md"
+    ],
+    "verificationStatus": "GUIDE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-3-2-new/"
+  },
+  {
+    "id": "6_tam_t1_u3_2_q4",
+    "question": "‘மானம் + இல்லா’ என்பதனைச் சேர்த்து எழுதக் கிடைக்கும் சொல் எது?",
+    "options": [
+      "மானம்இல்லா",
+      "மானமில்லா",
+      "மானமல்லா",
+      "மானம்மில்லா"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "மானம் + இல்லா சேர்ந்து மானமில்லா என அமைகிறது.",
+    "sourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-3-2-new/",
+    "sourceName": "FreeTNBooks — இயல் 3.2 துன்பம் வெல்லும் கல்வி",
+    "additionalSourceUrls": [
+      "https://huggingface.co/datasets/Joemn/TamilNadu-State-board-books-2025-Tamil-and-english-versions/blob/main/6th-standard/Tamil/Class_6_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition.md"
+    ],
+    "verificationStatus": "GUIDE_TEXTBOOK_TEXT_CROSSCHECK",
+    "explanationSourceUrl": "https://www.freetnbooks.com/6th-std-tamil-guide-term-1-lesson-3-2-new/"
+  }
+]
